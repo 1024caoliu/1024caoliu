@@ -1,10 +1,9 @@
-1024caoliu
+http://1024caoliu.tk
 ==========
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+ 
 <html>
 <head>
-    <title>1024最新地址 草榴 邀请码</title>
+    <title>1024最新地址 草榴 邀请码 http://1024caoliu.tk</title>
     <meta name="keywords" content="caoliushequ,草榴社區,草榴社區邀請碼,cler,草榴,1024" />
     <meta name="description" content="草榴社区发布页面，只发草榴社区最新地址，提供草榴社区入口地，每日更新地址。草榴社區創建于2006年,暗號1024，裏面會員自稱cler。因爲其域名經常變所以大家用其拼音caoliushequ代替，草榴注冊需要草榴社區邀請碼才可以注冊。推廣博客很多都是爲了掙草榴貢獻值，因爲草榴社區不需要注冊就可以浏覽所以人氣很旺!" />
 </head>
