@@ -8,8 +8,6 @@ http://1024caoliu.tk
     <meta name="description" content="草榴社区发布页面，只发草榴社区最新地址，提供草榴社区入口地，每日更新地址。草榴社區創建于2006年,暗號1024，裏面會員自稱cler。因爲其域名經常變所以大家用其拼音caoliushequ代替，草榴注冊需要草榴社區邀請碼才可以注冊。推廣博客很多都是爲了掙草榴貢獻值，因爲草榴社區不需要注冊就可以浏覽所以人氣很旺!" />
 </head>
 <body>
-    <h1 align="center">
-        1024最新地址 请加入收藏夹 随时更新</h1>
     <div align="center">
         <h2 align="center">
             游客福利：<a title="1024 网址1" href="Reg1024抢码工具_20141113更新.rar" target="_blank"> 抢邀请码工具</a>
